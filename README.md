@@ -2,6 +2,9 @@
 
 This project is a Cold Email Generator for consulting firms to help them get in touch with companies that are hiring. The tool automates the process of generating cold emails that showcase the consultancy's past projects, using the job postings scraped from company websites. The generated emails are tailored for each job posting, highlighting relevant skills, experience, and project links from the consultancy's portfolio.
 
+![Streamlit Image](./Streamlit.png)
+![Streamlit Image](Streamlit1.png)
+
 ## Key Features
 
 - **Cold Email Generation**: Automatically generates personalized cold emails for consultancy firms to reach out to companies.
